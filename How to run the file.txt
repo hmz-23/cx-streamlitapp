@@ -1,0 +1,2 @@
+Open terminal
+C:\Users\PC: streamlit run app1.py
