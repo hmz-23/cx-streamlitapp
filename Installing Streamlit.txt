@@ -1,0 +1,2 @@
+C:\Users\PC: pip install streamlit
+C:\Users\PC: streamlit hello
